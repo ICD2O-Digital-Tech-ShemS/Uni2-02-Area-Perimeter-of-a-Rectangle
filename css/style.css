@@ -2,3 +2,17 @@
 * Created on: Sep 2020
 * This file contains the CSS for index.html
 */
+body {
+    background-color: black;
+    color: aliceblue;
+}
+h1 {
+    text-align: center;
+    padding: 35%;
+    background-color: crimson;
+}
+h3 {
+    text-align: center;
+        padding: 35%;
+        background-color: crimson;
+}
